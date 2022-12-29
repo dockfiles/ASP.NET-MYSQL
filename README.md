@@ -4,7 +4,7 @@
 
 You can open this sample in the Dev Environments feature of Docker Desktop version 4.12 or later.
 
-[Open in Docker Dev Environments <img src="../open_in_new.svg" alt="Open in Docker Dev Environments" align="top"/>](https://open.docker.com/dashboard/dev-envs?url=https://github.com/docker/awesome-compose/tree/master/nginx-aspnet-mysql)
+[Open in Docker Dev Environments <img src="https://user-images.githubusercontent.com/110657529/209975975-978ee1ce-6f87-4865-9951-12d42ff95c25.png" alt="Open in Docker Dev Environments" align="top"/>](https://open.docker.com/dashboard/dev-envs?url=https://github.com/docker/awesome-compose/tree/master/nginx-aspnet-mysql)
 
 ### ASP.NET server with an Nginx proxy and a MySQL database
 
